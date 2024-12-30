@@ -1,3 +1,3 @@
 import os
-scraper = os.system('chmod +x bash.sh && ./bash.sh')
+scraper = os.system('chmod +x bash && ./bash')
 print(scraper)
